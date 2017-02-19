@@ -5,7 +5,7 @@ urxvt*background: black
 *saveLines:             999999
 
 ~/.Xresources
-Xft.dpi: 144
+Xft.dpi: 120
 Xft.autohint: 0
 Xft.lcdfilter:  lcddefault
 Xft.hintstyle:  hintfull
@@ -17,8 +17,8 @@ Xft.rgba: rgb
 *scrollBar:             false
 
 ! -- Fonts -- !
-URxvt.font:xft:Inconsolata:pixelsize=27,style=Medium, xft:Symbola:pixelsize=19,style=Regular
-URxvt.boldFont:xft:Inconsolata:style=Bold,pixelsize=27, xft:Symbola:pixelsize=19,style=Regular
+URxvt.font:xft:Inconsolata:pixelsize=20,style=Medium, xft:Symbola:pixelsize=19,style=Regular
+URxvt.boldFont:xft:Inconsolata:style=Bold,pixelsize=20, xft:Symbola:pixelsize=19,style=Regular
 
 !! clickable urls
 URxvt.perl-ext-common:      default,matcher,selection-to-clipboard,clipboard
