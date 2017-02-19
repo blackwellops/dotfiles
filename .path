@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# neovim
+export PATH="$HOME/neovim/bin:$PATH"
