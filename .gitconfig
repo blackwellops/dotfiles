@@ -1,7 +1,7 @@
 [user]
 	name = Jason Blackwell
 	email = jason@blackwell.io
-	signingkey = E2902E3D26576999
+	signingkey = 3922FFBA6C627429
 [commit]
         gpgsign = true
 [push]
